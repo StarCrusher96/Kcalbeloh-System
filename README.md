@@ -34,7 +34,7 @@ Happy launchings!
 <details>
    <summary> Are you sure you want to spoil it? </summary>
    <p>
-   <img src=/KcalbelohSystemMap6k.png>
+   <img src=[/KcalbelohSystemMap6k.png](https://imgur.com/a/KRrDtDY)>
    </p>
  </details>
  
